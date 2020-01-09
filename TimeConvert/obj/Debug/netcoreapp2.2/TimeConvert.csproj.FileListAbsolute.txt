@@ -1,0 +1,10 @@
+C:\dev\Challenges\TimeConvert\bin\Debug\netcoreapp2.2\TimeConvert.deps.json
+C:\dev\Challenges\TimeConvert\bin\Debug\netcoreapp2.2\TimeConvert.runtimeconfig.json
+C:\dev\Challenges\TimeConvert\bin\Debug\netcoreapp2.2\TimeConvert.runtimeconfig.dev.json
+C:\dev\Challenges\TimeConvert\bin\Debug\netcoreapp2.2\TimeConvert.dll
+C:\dev\Challenges\TimeConvert\bin\Debug\netcoreapp2.2\TimeConvert.pdb
+C:\dev\Challenges\TimeConvert\obj\Debug\netcoreapp2.2\TimeConvert.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\TimeConvert\obj\Debug\netcoreapp2.2\TimeConvert.AssemblyInfoInputs.cache
+C:\dev\Challenges\TimeConvert\obj\Debug\netcoreapp2.2\TimeConvert.AssemblyInfo.cs
+C:\dev\Challenges\TimeConvert\obj\Debug\netcoreapp2.2\TimeConvert.dll
+C:\dev\Challenges\TimeConvert\obj\Debug\netcoreapp2.2\TimeConvert.pdb

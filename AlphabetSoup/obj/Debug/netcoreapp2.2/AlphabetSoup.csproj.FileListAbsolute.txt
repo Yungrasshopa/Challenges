@@ -1,0 +1,10 @@
+C:\dev\Challenges\AlphabetSoup\bin\Debug\netcoreapp2.2\AlphabetSoup.deps.json
+C:\dev\Challenges\AlphabetSoup\bin\Debug\netcoreapp2.2\AlphabetSoup.runtimeconfig.json
+C:\dev\Challenges\AlphabetSoup\bin\Debug\netcoreapp2.2\AlphabetSoup.runtimeconfig.dev.json
+C:\dev\Challenges\AlphabetSoup\bin\Debug\netcoreapp2.2\AlphabetSoup.dll
+C:\dev\Challenges\AlphabetSoup\bin\Debug\netcoreapp2.2\AlphabetSoup.pdb
+C:\dev\Challenges\AlphabetSoup\obj\Debug\netcoreapp2.2\AlphabetSoup.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\AlphabetSoup\obj\Debug\netcoreapp2.2\AlphabetSoup.AssemblyInfoInputs.cache
+C:\dev\Challenges\AlphabetSoup\obj\Debug\netcoreapp2.2\AlphabetSoup.AssemblyInfo.cs
+C:\dev\Challenges\AlphabetSoup\obj\Debug\netcoreapp2.2\AlphabetSoup.dll
+C:\dev\Challenges\AlphabetSoup\obj\Debug\netcoreapp2.2\AlphabetSoup.pdb

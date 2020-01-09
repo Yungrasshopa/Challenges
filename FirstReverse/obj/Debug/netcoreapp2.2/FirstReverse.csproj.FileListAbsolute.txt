@@ -1,0 +1,11 @@
+C:\dev\Challenges\FirstReverse\bin\Debug\netcoreapp2.2\FirstReverse.deps.json
+C:\dev\Challenges\FirstReverse\bin\Debug\netcoreapp2.2\FirstReverse.runtimeconfig.json
+C:\dev\Challenges\FirstReverse\bin\Debug\netcoreapp2.2\FirstReverse.runtimeconfig.dev.json
+C:\dev\Challenges\FirstReverse\bin\Debug\netcoreapp2.2\FirstReverse.dll
+C:\dev\Challenges\FirstReverse\bin\Debug\netcoreapp2.2\FirstReverse.pdb
+C:\dev\Challenges\FirstReverse\obj\Debug\netcoreapp2.2\FirstReverse.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\FirstReverse\obj\Debug\netcoreapp2.2\FirstReverse.AssemblyInfoInputs.cache
+C:\dev\Challenges\FirstReverse\obj\Debug\netcoreapp2.2\FirstReverse.AssemblyInfo.cs
+C:\dev\Challenges\FirstReverse\obj\Debug\netcoreapp2.2\FirstReverse.dll
+C:\dev\Challenges\FirstReverse\obj\Debug\netcoreapp2.2\FirstReverse.pdb
+C:\dev\Challenges\FirstReverse\obj\Debug\netcoreapp2.2\FirstReverse.csprojAssemblyReference.cache

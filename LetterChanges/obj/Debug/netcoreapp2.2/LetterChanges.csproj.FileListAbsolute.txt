@@ -1,0 +1,11 @@
+C:\dev\Challenges\LetterChanges\bin\Debug\netcoreapp2.2\LetterChanges.deps.json
+C:\dev\Challenges\LetterChanges\bin\Debug\netcoreapp2.2\LetterChanges.runtimeconfig.json
+C:\dev\Challenges\LetterChanges\bin\Debug\netcoreapp2.2\LetterChanges.runtimeconfig.dev.json
+C:\dev\Challenges\LetterChanges\bin\Debug\netcoreapp2.2\LetterChanges.dll
+C:\dev\Challenges\LetterChanges\bin\Debug\netcoreapp2.2\LetterChanges.pdb
+C:\dev\Challenges\LetterChanges\obj\Debug\netcoreapp2.2\LetterChanges.csprojAssemblyReference.cache
+C:\dev\Challenges\LetterChanges\obj\Debug\netcoreapp2.2\LetterChanges.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\LetterChanges\obj\Debug\netcoreapp2.2\LetterChanges.AssemblyInfoInputs.cache
+C:\dev\Challenges\LetterChanges\obj\Debug\netcoreapp2.2\LetterChanges.AssemblyInfo.cs
+C:\dev\Challenges\LetterChanges\obj\Debug\netcoreapp2.2\LetterChanges.dll
+C:\dev\Challenges\LetterChanges\obj\Debug\netcoreapp2.2\LetterChanges.pdb

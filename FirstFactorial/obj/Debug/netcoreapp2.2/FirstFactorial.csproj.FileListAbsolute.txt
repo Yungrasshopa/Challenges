@@ -1,0 +1,11 @@
+C:\dev\Challenges\FirstFactorial\obj\Debug\netcoreapp2.2\FirstFactorial.csprojAssemblyReference.cache
+C:\dev\Challenges\FirstFactorial\obj\Debug\netcoreapp2.2\FirstFactorial.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\FirstFactorial\obj\Debug\netcoreapp2.2\FirstFactorial.AssemblyInfoInputs.cache
+C:\dev\Challenges\FirstFactorial\obj\Debug\netcoreapp2.2\FirstFactorial.AssemblyInfo.cs
+C:\dev\Challenges\FirstFactorial\bin\Debug\netcoreapp2.2\FirstFactorial.deps.json
+C:\dev\Challenges\FirstFactorial\bin\Debug\netcoreapp2.2\FirstFactorial.runtimeconfig.json
+C:\dev\Challenges\FirstFactorial\bin\Debug\netcoreapp2.2\FirstFactorial.runtimeconfig.dev.json
+C:\dev\Challenges\FirstFactorial\bin\Debug\netcoreapp2.2\FirstFactorial.dll
+C:\dev\Challenges\FirstFactorial\bin\Debug\netcoreapp2.2\FirstFactorial.pdb
+C:\dev\Challenges\FirstFactorial\obj\Debug\netcoreapp2.2\FirstFactorial.dll
+C:\dev\Challenges\FirstFactorial\obj\Debug\netcoreapp2.2\FirstFactorial.pdb

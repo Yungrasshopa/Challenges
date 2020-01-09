@@ -1,0 +1,11 @@
+C:\dev\Challenges\CorrectPath\bin\Debug\netcoreapp2.2\CorrectPath.deps.json
+C:\dev\Challenges\CorrectPath\bin\Debug\netcoreapp2.2\CorrectPath.runtimeconfig.json
+C:\dev\Challenges\CorrectPath\bin\Debug\netcoreapp2.2\CorrectPath.runtimeconfig.dev.json
+C:\dev\Challenges\CorrectPath\bin\Debug\netcoreapp2.2\CorrectPath.dll
+C:\dev\Challenges\CorrectPath\bin\Debug\netcoreapp2.2\CorrectPath.pdb
+C:\dev\Challenges\CorrectPath\obj\Debug\netcoreapp2.2\CorrectPath.csprojAssemblyReference.cache
+C:\dev\Challenges\CorrectPath\obj\Debug\netcoreapp2.2\CorrectPath.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\CorrectPath\obj\Debug\netcoreapp2.2\CorrectPath.AssemblyInfoInputs.cache
+C:\dev\Challenges\CorrectPath\obj\Debug\netcoreapp2.2\CorrectPath.AssemblyInfo.cs
+C:\dev\Challenges\CorrectPath\obj\Debug\netcoreapp2.2\CorrectPath.dll
+C:\dev\Challenges\CorrectPath\obj\Debug\netcoreapp2.2\CorrectPath.pdb

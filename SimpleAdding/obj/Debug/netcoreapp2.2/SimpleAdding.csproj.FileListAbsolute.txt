@@ -1,0 +1,10 @@
+C:\dev\Challenges\SimpleAdding\bin\Debug\netcoreapp2.2\SimpleAdding.deps.json
+C:\dev\Challenges\SimpleAdding\bin\Debug\netcoreapp2.2\SimpleAdding.runtimeconfig.json
+C:\dev\Challenges\SimpleAdding\bin\Debug\netcoreapp2.2\SimpleAdding.runtimeconfig.dev.json
+C:\dev\Challenges\SimpleAdding\bin\Debug\netcoreapp2.2\SimpleAdding.dll
+C:\dev\Challenges\SimpleAdding\bin\Debug\netcoreapp2.2\SimpleAdding.pdb
+C:\dev\Challenges\SimpleAdding\obj\Debug\netcoreapp2.2\SimpleAdding.csproj.CoreCompileInputs.cache
+C:\dev\Challenges\SimpleAdding\obj\Debug\netcoreapp2.2\SimpleAdding.AssemblyInfoInputs.cache
+C:\dev\Challenges\SimpleAdding\obj\Debug\netcoreapp2.2\SimpleAdding.AssemblyInfo.cs
+C:\dev\Challenges\SimpleAdding\obj\Debug\netcoreapp2.2\SimpleAdding.dll
+C:\dev\Challenges\SimpleAdding\obj\Debug\netcoreapp2.2\SimpleAdding.pdb
